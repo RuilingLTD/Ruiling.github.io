@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://RuilingLTD.github.io</id>
+    <title>RuilingLTD</title>
+    <updated>2024-03-26T14:25:58.086Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://RuilingLTD.github.io"/>
+    <link rel="self" href="https://RuilingLTD.github.io/atom.xml"/>
+    <subtitle>A journey of a thousand miles begins with a single step 
+千里之行。始于足下</subtitle>
+    <logo>https://RuilingLTD.github.io/images/avatar.png</logo>
+    <icon>https://RuilingLTD.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, RuilingLTD</rights>
+    <entry>
+        <title type="html"><![CDATA[测试一下]]></title>
+        <id>https://RuilingLTD.github.io/post/ce-shi-yi-xia/</id>
+        <link href="https://RuilingLTD.github.io/post/ce-shi-yi-xia/">
+        </link>
+        <updated>2024-03-24T11:51:31.000Z</updated>
+        <content type="html"><![CDATA[<p>开始</p>
+]]></content>
+    </entry>
+</feed>
